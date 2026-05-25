@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>Jose</span>
         👋
         <br />
-        A Systems Engineer from Costa Rica 🇭🇷
+        A Systems Engineer from Costa Rica 
       </h1>
     );
 
